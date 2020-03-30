@@ -1,3 +1,3 @@
 # hello-world
 First repository 
-I am Nujhath Rahman the Genius, in brief, NRG.
+I am Nujhath Rahman in brief, NRG.
